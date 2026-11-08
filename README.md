@@ -61,5 +61,5 @@ A calculated spread was then created:
 ## Files
 
 - `Australian_Financial_Conditions_Analysis.xlsx` - Excel workbook containing the Power Query transformations, analysis and dashboard
-- `Australian_Financial_Conditions_Analysis.jpg` - dashboard preview
+- `Australian_Financial_Conditions_Analysis.png` - dashboard preview
 - `Australian_Financial_Conditions_Analysis.pdf` - dashboard PDF
