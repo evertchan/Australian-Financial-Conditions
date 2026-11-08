@@ -34,7 +34,7 @@ RBA Statistical Tables used:
 
 ## Dashboard
 
-![Australian Financial Conditions Dashboard](Australian_Financial_Conditions_Analysis.jpg)
+![Australian Financial Conditions Dashboard](Australian_Financial_Conditions_Analysis.png)
 
 ## Key Findings
 
